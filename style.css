@@ -1,1 +1,25 @@
-
+header{
+  background-color: green;
+  color: black;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 16xp;
+}
+main{
+  background-color:green;
+  color: black;
+  max-width: 800px;
+  margin:0 auto;
+  padding: 16px;
+}
+article{
+  display:flex;
+}
+img{
+  width: 80px;
+  height: 80px;
+}
+artigo-autor{
+  font-weight: bold;
+}
